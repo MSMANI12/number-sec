@@ -1,0 +1,29 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+	}
+.row{
+	display:flex;
+	
+}
+.numbers{
+	width:100%;
+	background-color:#F8FBFE;
+	
+}
+.col{
+	width:33.3%;
+	text-align:center;
+}
+.col p{
+	color:#4074AE;
+	font-size:14px;
+	text-align:center;
+}
+.col h4{
+	
+	font-size: 48px;
+    font-weight: 700;
+    color: #124265;
+}
